@@ -1,0 +1,14 @@
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\bin\Debug\APK-VL.exe.config
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\bin\Debug\APK-VL.exe
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\bin\Debug\APK-VL.pdb
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK-VL.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK_VL.Properties.Resources.resources
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK-VL.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK-VL.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK-VL.exe
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK-VL.pdb
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK_VL.Form1.resources
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK_VL.StudentForm.resources
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK_VL.StudentUserControl.resources
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK_VL.ProfessorForm.resources
+C:\Users\Tomas\Desktop\ObjectProgramming\APK-VL\obj\Debug\APK_VL.ProfessorUserControl.resources
